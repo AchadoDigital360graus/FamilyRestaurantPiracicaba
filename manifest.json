@@ -1,7 +1,9 @@
 {
  "theme_color": "#FFFFFF",
  "display": "fullscreen",
+ "start_url": "index.htm",
  "name": "Family Restant Piracicaba",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,7 +41,5 @@
    "sizes": "64x64"
   }
  ],
- "start_url": "index.htm",
- "background_color": "#FFFFFF",
  "description": "Steak House - Sushi Bamboo - Santa Pizza "
 }
